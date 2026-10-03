@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_spotify">SpotifyActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_card2">CardActivity2</string>
+</resources>
